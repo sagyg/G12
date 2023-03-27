@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+   <color name="opaque_red">#f00</color>
+   <color name="translucent_red">#80ff0000</color>
+   <color name="blue">#73B2D2</color>
+   <color name="white">#FFFFFF</color>
+   <color name="black">#000000</color>
+   <color name="deepBlue">#07497B</color>
+   <color name="azure">#6AB2D2</color>
+   <color name="blue1">#3A89B0</color>
+   <color name="translucent_blue1">#7691BD</color>           
+	<color name="gray">#d1d5d6</color>
+	<color name="orange">#ffc000</color>
+	<color name="transparent">#00000000</color>
+	<color name="image_border_start">#40990000</color>
+	<color name="image_border_end">#FF660000</color>
+	<color name="image_border_center">#FFFF3333</color>
+	<color name="red">#ffff0000</color>
+	<color name="pink">#ffe12579</color>
+	
+</resources>
+
